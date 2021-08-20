@@ -11,7 +11,7 @@ pipeline {
       }
     }
     
-  //  stage("test") {
+    stage("test") {
       
       steps {
         echo "testing the application"
